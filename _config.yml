@@ -105,4 +105,4 @@ theme: next
 deploy: 
   type: 'git'
   repo: git@gitee.com:caiks/cai.git
-  branch: maste
+  branch: master
